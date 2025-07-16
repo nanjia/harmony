@@ -1,0 +1,21 @@
+# HarmonyOS 混淆规则文件
+# 用于 Release 模式编译时对代码进行混淆处理
+
+# 保留应用入口类
+-keep class com.example.harmonychat.EntryAbility { *; }
+-keep class com.example.harmonychat.MyApplication { *; }
+
+# 保留 UI 组件
+-keep class * extends ohos.agp.components.Component { *; }
+
+# 保留数据模型类
+-keep class com.example.harmonychat.common.model.** { *; }
+
+# 保留 API 相关类
+-keep class com.example.harmonychat.common.api.** { *; }
+
+# 保留管理器类
+-keep class com.example.harmonychat.common.** { *; }
+
+# 保留页面类
+-keep class com.example.harmonychat.pages.** { *; } 

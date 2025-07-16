@@ -1,0 +1,9 @@
+{
+  "name": "harmonychat",
+  "version": "1.0.0",
+  "description": "HarmonyOS Chat Client",
+  "main": "",
+  "author": "example",
+  "license": "MIT",
+  "dependencies": {}
+}

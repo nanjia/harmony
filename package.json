@@ -1,0 +1,14 @@
+{
+  "name": "harmonychat",
+  "version": "1.0.0",
+  "description": "HarmonyOS Chat Client",
+  "main": "entry/src/main/ets/entryability/MainAbility.ets",
+  "scripts": {
+    "build": "ace build",
+    "start": "ace run"
+  },
+  "author": "example",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+} 

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "HarmonyOS Chat Client Entry Module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "HarmonyOS Chat Application"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HarmonyChat"
+    },
+    {
+      "name": "contacts",
+      "value": "联系人"
+    },
+    {
+      "name": "chat",
+      "value": "聊天"
+    },
+    {
+      "name": "profile",
+      "value": "个人资料"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    }
+  ]
+} 

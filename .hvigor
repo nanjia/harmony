@@ -1,0 +1,18 @@
+# HarmonyOS 构建配置文件
+# 包含代码编译顺序、资源打包方式等关键构建步骤设定
+
+# 编译配置
+compileSdkVersion = 10
+compatibleSdkVersion = 10
+buildMode = debug
+productType = phone
+
+# 模块配置
+modules = ["entry"]
+
+# 资源打包配置
+resourceMode = auto
+enableObfuscation = false
+
+# 依赖配置
+dependencies = [] 
